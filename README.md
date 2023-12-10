@@ -7,20 +7,6 @@ This project addresses Microsoft's entry into original content creation within t
 ### Identify stakeholders and how they would use the project.
 Stakeholders in this project include Microsoft executives, creative teams involved in film production, and marketing teams tasked with promoting the studio's content. Microsoft executives would leverage the project to make informed decisions on the types of films to produce, aligning with market trends. Creative teams would utilize the insights to tailor their film concepts to genres and characteristics that resonate with audiences, increasing the likelihood of success. Marketing teams would benefit by understanding the preferences and trends that drive box office success, allowing them to develop targeted promotional strategies for the studio's films.
 ## Data Understanding and Analysis
-import pandas as pd
-
-# Sample DataFrame
-data = {'product': ['A', 'B', 'A', 'B', 'A'],
-        'price': [10, 20, 15, 25, 12]}
-
-df = pd.DataFrame(data)
-
-# Group by 'product' and get the maximum price for each group
-result = df.groupby('product')['price'].max().reset_index()
-
-# Print the result
-print(result)
-
 ### Source of Data
 ### Description of Data
 ### Data Visualization
