@@ -8,6 +8,13 @@ This project addresses Microsoft's entry into original content creation within t
 Stakeholders in this project include Microsoft executives, creative teams involved in film production, and marketing teams tasked with promoting the studio's content. Microsoft executives would leverage the project to make informed decisions on the types of films to produce, aligning with market trends. Creative teams would utilize the insights to tailor their film concepts to genres and characteristics that resonate with audiences, increasing the likelihood of success. Marketing teams would benefit by understanding the preferences and trends that drive box office success, allowing them to develop targeted promotional strategies for the studio's films. 
 ## Data Understanding and Analysis
 ### Source of Data
+ The data set used are from two sources:
+-Box Office Mojo 
+Contains info on the domestic and foreign gross income for the different movies
+Also shows the Studios that produced the movie
+IMDB
+Shows the genres of the movies
+Also contains the average ratings and the number of votes
 ### Description of Data
 ### Data Visualization
 ## Conclusion
