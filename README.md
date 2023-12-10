@@ -28,4 +28,4 @@ Here is the summary of the key recommendations:;
 - The foreign market forms a key part of each studio's gross income. Therefore, Microsoft should ensure that the films produced appeal to a global audience. 
 - For the past years, Biographies have had the highest rating. Therefore Microsoft should consider the genre when deciding on which film to produce.  
 - Microsoft should not focus much on average movie ratings and indicators of the expected gross income. Instead, it should use the average ratings to know which genres the consumers would enjoy watching. 
-- Microsoft could look for potential directors to add to their staff, depending on the genre they would want to start with, based on the table of directors for the top grossing films over the specified time period.  
+- Microsoft could look for potential directors to add to their staff, depending on the genre they would want to start with, based on the table of directors for the top grossing films over the specified time period. 
