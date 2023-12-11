@@ -10,7 +10,7 @@ Stakeholders in this project include Microsoft executives, creative teams involv
 ### Source of Data
  The data set used are from two sources:
 - Box Office Mojo
-Contains info on the domestic and foreign gross income for the different movies as well as the Studios that produced the movie
+Contains info on the domestic and foreign gross income for the different movies as well as the Studios that produced the movies. 
 - IMDB
 Shows the genres of the movies, the average ratings and the number of votes that lead to that rating
 ### Description of Data
