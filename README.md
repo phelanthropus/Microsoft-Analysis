@@ -131,8 +131,8 @@ This can be used in the following ways:
 
 
 ## Conclusion
-Here is the summary of the key recommendations:;
-- The foreign market forms a key part of each studio's gross income. Therefore, Microsoft should ensure that the films produced appeal to a global audience. 
-- For the past years, Biographies have had the highest rating. Therefore Microsoft should consider the genre when deciding on which film to produce.  
-- Microsoft should not focus much on average movie ratings and indicators of the expected gross income. Instead, it should use the average ratings to know which genres the consumers would enjoy watching. 
-- Microsoft could look for potential directors to add to their staff, depending on the genre they would want to start with, based on the table of directors for the top grossing films over the specified time period. 
+Here is the summary of the key recommendations:
+1. Global Appeal Strategy: Given that the foreign market significantly contributes to studios' gross income, Microsoft should prioritize producing films with universal appeal to maximize global success.
+2. Genre-Driven Content Strategy: Considering the consistently high ratings of Biographies in recent years, Microsoft should strategically factor in genre preferences when selecting films for production, aligning content choices with audience preferences.
+3. Strategic Use of Average Ratings: Rather than relying solely on average movie ratings and gross income indicators, Microsoft should leverage average ratings to discern consumer preferences by genre. This approach ensures a more consumer-centric content strategy, focusing on genres that resonate with viewers.
+4. Directorial Talent Acquisition: To enhance their filmmaking team, Microsoft could explore hiring directors based on the genre preferences highlighted in the top grossing films' directorial table. This targeted approach aligns with the observed success of directors in specific genres over the specified time period.
