@@ -8,11 +8,18 @@ This project addresses Microsoft's entry into original content creation within t
 Stakeholders in this project include Microsoft executives, creative teams involved in film production, and marketing teams tasked with promoting the studio's content. Microsoft executives would leverage the project to make informed decisions on the types of films to produce, aligning with market trends. Creative teams would utilize the insights to tailor their film concepts to genres and characteristics that resonate with audiences, increasing the likelihood of success. Marketing teams would benefit by understanding the preferences and trends that drive box office success, allowing them to develop targeted promotional strategies for the studio's films. 
 ## Data Understanding and Analysis
 ### Source of Data
- The data set used are from two sources:
-- Box Office Mojo
-Contains info on the domestic and foreign gross income for the different movies as well as the Studios that produced the movies. 
-- IMDB
-Shows the genres of the movies, the average ratings and the number of votes that lead to that rating
+
+The dataset amalgamates information from two primary sources: Box Office Mojo and IMDB.
+
+##### 1. Box Office Mojo:
+- Domestic Gross: Contains details on the income generated within the domestic market for various movies.
+- Foreign Gross: Encompasses information regarding the income generated in international markets for the same set of movies.
+- Studios: Provides insights into the production studios associated with each movie.
+##### 2. IMDB:
+- Genres: Specifies the genres of the movies within the dataset.
+- Average Ratings: Presents the average ratings assigned to the movies.
+- Number of Votes: Indicates the count of votes contributing to the calculation of the average rating.
+
 ### Description of Data
 For the Box Office Mojo dataset, we have the following key columns:
 - title: this shows the movie titles
