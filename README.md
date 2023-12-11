@@ -20,6 +20,8 @@ For the Box Office Mojo dataset, we have the following key columns:
 - domestic gross: this shows the domestic gross income that the studio got from a certain movie. 
 - foreign gross: this shows the foreign gross income that the studio got from a certain movie. It refers to the income that the studio got from foreign markets. 
 ### Data Visualization
+![Alt Text](./data visualizatiom/output.png.jpg)
+
 
 ## Conclusion
 Here is the summary of the key recommendations:;
