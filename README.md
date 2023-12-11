@@ -130,9 +130,63 @@ This can be used in the following ways:
 
 
 
-## Conclusion
+## Recommendations and Summary 
 Here is the summary of the key recommendations:
 1. Global Appeal Strategy: Given that the foreign market significantly contributes to studios' gross income, Microsoft should prioritize producing films with universal appeal to maximize global success.
 2. Genre-Driven Content Strategy: Considering the consistently high ratings of Biographies in recent years, Microsoft should strategically factor in genre preferences when selecting films for production, aligning content choices with audience preferences.
 3. Strategic Use of Average Ratings: Rather than relying solely on average movie ratings and gross income indicators, Microsoft should leverage average ratings to discern consumer preferences by genre. This approach ensures a more consumer-centric content strategy, focusing on genres that resonate with viewers.
 4. Directorial Talent Acquisition: To enhance their filmmaking team, Microsoft could explore hiring directors based on the genre preferences highlighted in the top grossing films' directorial table. This targeted approach aligns with the observed success of directors in specific genres over the specified time period.
+
+### Point to Consider:
+Despite a weak correlation between average ratings and total gross, the dataset reveals that Biographies consistently receive the highest ratings among genres.
+
+#### Implications:
+
+- High Ratings for Biographies: Biographical films have garnered the highest ratings, indicating a potential for critical acclaim and audience appreciation in this genre.
+- Weak Correlation: The weak correlation suggests that high ratings alone may not guarantee high box office earnings.
+
+#### Suggestions for Microsoft:
+
+- Genre-Specific Focus: Given the strong performance of Biographies in terms of ratings, Microsoft could strategically focus on producing compelling biographical content.
+- Balanced Approach: While emphasizing high-quality content in Biographies, Microsoft should also recognize the weak correlation between ratings and total gross. This underscores the importance of a balanced strategy that considers market trends and audience preferences alongside critical acclaim.
+- Diversification: Consider exploring other genres with potential commercial appeal, leveraging insights from the weak correlation to prioritize genres that align with both critical acclaim and box office success. 
+
+## Observed Limitations of the Analysis
+The analysis above might not be enough for Microsoft to decide on the perfect strategy to enter into the film industry. Therefore more research and additional data will be needed to mitigate these. The following are some of the limiations: 
+
+### 1. Limited Causation Inference:
+
+- Observation: Correlations between variables don't imply causation.
+- Limitation: The observed relationships in the graphs may lack causative explanations. Microsoft should interpret findings cautiously and consider other factors influencing outcomes.
+### 2. Data Completeness:
+
+- Observation: The dataset may not include all relevant variables or exhaustive records.
+- Limitation: Incomplete data could limit the accuracy of conclusions. Suggest to Microsoft to validate findings with additional data sources.
+### 3. Genre Dynamics Over Time:
+
+- Observation: Genre popularity can change over time.
+- Limitation: The observed high rating for Biographies might be influenced by current trends. Suggest Microsoft regularly updates their genre analysis to reflect evolving audience preferences.
+### 4. Cross-Cultural Variances:
+
+- Observation: Global markets may respond differently to genres.
+- Limitation: Recommendations based on average ratings may not fully consider regional preferences. Suggest Microsoft explores regional variations in genre popularity for a more targeted global strategy.
+### 5. Directorial Influence:
+
+- Observation: Directors contribute to film success.
+- Limitation: The dataset may not capture all aspects of directorial impact. Suggest Microsoft considers qualitative factors in addition to quantitative data when assessing directorial choices.
+### 6. Changing Consumer Tastes:
+
+- Observation: Audience preferences evolve.
+- Limitation: Past performance doesn't guarantee future success. Recommend Microsoft stays adaptable and monitors ongoing industry trends to align with changing consumer tastes.
+### 7. Limited Box Office Insights:
+
+- Observation: The scatter plot may not capture all nuances of box office dynamics.
+- Limitation: Suggest Microsoft uses additional market research to complement scatter plot insights and gain a comprehensive understanding of the factors influencing total gross.
+### 8. Time Sensitivity:
+
+- Observation: Trends may have time-specific relevance.
+- Limitation: Recommendations based on historical data may need adjustment over time. Advise Microsoft to consider the temporal relevance of observations and update strategies accordingly.
+
+## Conclusion 
+
+In conclusion, the data-driven analysis underscores key insights for Microsoft's new studio venture. While a weak correlation between average ratings and total gross suggests the need for a nuanced approach, the consistent high ratings for Biographies offer a promising avenue for critical acclaim. Microsoft is advised to strategically leverage the strengths of highlighted, acknowledging the evolving nature of audience preferences and global market dynamics. Moreover, the limitations of the analysis, including data completeness and the temporal nature of trends, emphasize the importance of continuous adaptation and comprehensive market research. By embracing these insights and navigating the complexities of the entertainment landscape, Microsoft can position itself for success in the highly competitive film industry.
