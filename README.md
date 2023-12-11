@@ -1,5 +1,8 @@
 # Strategic Insights for Microsoft's Film Studio
 
+[Please find the canva presentation here.](https://www.canva.com/design/DAF2jNw8_0Q/pObzVGUN21z-S_qDVscahA/view?utm_content=DAF2jNw8_0Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+
 ## Introduction
 In the realm of entertainment innovation, Microsoft is on the verge of establishing a pioneering movie studio. As the designated analyst for this pivotal initiative, the goal is to decipher the intricate dynamics of successful contemporary films. Armed with comprehensive data encompassing movie titles, revenue metrics, studio affiliations, runtimes, genres, and audience ratings, the analysis aims to distill actionable insights. These findings will serve as a strategic compass, empowering Microsoft's movie studio to produce content that resonates with audiences and maximizes box office success. This exploration is a proactive step towards seamlessly integrating Microsoft into the dynamic realm of original content creation. 
 ### Explain the real-world problem the project aims to solve.
