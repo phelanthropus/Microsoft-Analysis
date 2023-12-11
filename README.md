@@ -20,6 +20,14 @@ For the Box Office Mojo dataset, we have the following key columns:
 - domestic gross: this shows the domestic gross income that the studio got from a certain movie. 
 - foreign gross: this shows the foreign gross income that the studio got from a certain movie. It refers to the income that the studio got from foreign markets. 
 ### Data Visualization
+The graph below shows the top ten studios based on total gross. 
+This is how they can use the data:
+- Market Insights: Analyzing top studios' total gross provides crucial market insights, guiding Microsoft in understanding industry dynamics and consumer preferences.
+- Success Strategies: Identification of successful strategies in content creation, marketing, and audience engagement equips Microsoft with valuable lessons for their new studio venture.
+- Competitive Strategy Formulation: This analysis aids in formulating a competitive strategy, allowing Microsoft to position their new studio effectively in the industry landscape.
+- Trend Alignment: Understanding market trends derived from top studios' performance ensures Microsoft aligns their content with current audience preferences.
+
+Tailored Approach: Armed with insights, Microsoft can tailor their approach, increasing the likelihood of a successful entry into the highly competitive entertainment industry.
 ![Alt Text](./data%20visualization/output.png)
 ![Alt Text](./data%20visualization/output2.png)
 ![Alt Text](./data%20visualization/output3.png)
