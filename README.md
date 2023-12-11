@@ -20,16 +20,24 @@ For the Box Office Mojo dataset, we have the following key columns:
 - domestic gross: this shows the domestic gross income that the studio got from a certain movie. 
 - foreign gross: this shows the foreign gross income that the studio got from a certain movie. It refers to the income that the studio got from foreign markets. 
 ### Data Visualization
+#### Top Ten Studios Based on Total Gross
 The graph below shows the top ten studios based on total gross. 
+![Alt Text](./data%20visualization/output.png)
 This is how they can use the data:
 - Market Insights: Analyzing top studios' total gross provides crucial market insights, guiding Microsoft in understanding industry dynamics and consumer preferences.
 - Success Strategies: Identification of successful strategies in content creation, marketing, and audience engagement equips Microsoft with valuable lessons for their new studio venture.
 - Competitive Strategy Formulation: This analysis aids in formulating a competitive strategy, allowing Microsoft to position their new studio effectively in the industry landscape.
 - Trend Alignment: Understanding market trends derived from top studios' performance ensures Microsoft aligns their content with current audience preferences.
+- Tailored Approach: Armed with insights, Microsoft can tailor their approach, increasing the likelihood of a successful entry into the highly competitive entertainment industry.
 
-Tailored Approach: Armed with insights, Microsoft can tailor their approach, increasing the likelihood of a successful entry into the highly competitive entertainment industry.
-![Alt Text](./data%20visualization/output.png)
+#### Top Movies by Total Gross
 ![Alt Text](./data%20visualization/output2.png)
+Microsoft can benefit from this in the following ways: 
+- Market Understanding: Analysis of top movies by total gross provides Microsoft with a deep understanding of market trends, enabling informed decision-making for their new studio.
+- Content Strategy: Identification of successful elements in top-grossing movies aids Microsoft in crafting a content strategy that resonates with a broad audience.
+- Audience Preferences: Insights into the highest-grossing movies reveal audience preferences, helping Microsoft tailor their content to meet and exceed consumer expectations.
+- Competitive Edge: Understanding the success factors of top movies allows Microsoft to establish a competitive edge, positioning their studio for success in a competitive industry.
+- Strategic Positioning: This analysis assists Microsoft in strategically positioning their new studio by aligning with successful trends observed in top-performing movies.
 ![Alt Text](./data%20visualization/output3.png)
 ![Alt Text](./data%20visualization/output4.png)
 ![Alt Text](./data%20visualization/output5.png)
