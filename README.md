@@ -107,7 +107,7 @@ Microsoft can use this data in the following ways:
 
 #### Scatter Plot of Average Rating vs. Total Gross
 
-![Alt Text](./data%20visualization/output7.png)
+![Alt Text](./data%20visualization/output8.png)
 
 This can be used in the following ways:
 
@@ -120,8 +120,6 @@ This can be used in the following ways:
 - Audience Preferences: Patterns in the scatter plot indicate audience preferences, aiding Microsoft in tailoring their content to meet the demands of a discerning and revenue-driven audience.
 
 - Competitive Positioning: Utilizing the plot, Microsoft can strategically position their studio as one that consistently delivers high-quality content with substantial commercial appeal.
-
-![Alt Text](./data%20visualization/output8.png)
 
 
 
