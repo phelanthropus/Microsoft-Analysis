@@ -23,6 +23,7 @@ For the Box Office Mojo dataset, we have the following key columns:
 #### Top Ten Studios Based on Total Gross
 The graph below shows the top ten studios based on total gross. 
 ![Alt Text](./data%20visualization/output.png)
+
 This is how they can use the data:
 - Market Insights: Analyzing top studios' total gross provides crucial market insights, guiding Microsoft in understanding industry dynamics and consumer preferences.
 - Success Strategies: Identification of successful strategies in content creation, marketing, and audience engagement equips Microsoft with valuable lessons for their new studio venture.
@@ -32,13 +33,30 @@ This is how they can use the data:
 
 #### Top Movies by Total Gross
 ![Alt Text](./data%20visualization/output2.png)
+
 Microsoft can benefit from this in the following ways: 
 - Market Understanding: Analysis of top movies by total gross provides Microsoft with a deep understanding of market trends, enabling informed decision-making for their new studio.
 - Content Strategy: Identification of successful elements in top-grossing movies aids Microsoft in crafting a content strategy that resonates with a broad audience.
 - Audience Preferences: Insights into the highest-grossing movies reveal audience preferences, helping Microsoft tailor their content to meet and exceed consumer expectations.
 - Competitive Edge: Understanding the success factors of top movies allows Microsoft to establish a competitive edge, positioning their studio for success in a competitive industry.
 - Strategic Positioning: This analysis assists Microsoft in strategically positioning their new studio by aligning with successful trends observed in top-performing movies.
+
+#### Average Domestic Gross by Studio
+
 ![Alt Text](./data%20visualization/output3.png)
+
+Microsoft can use this data in the following way:
+
+- Performance Benchmark: Analyzing the average domestic gross by studio establishes a performance benchmark, aiding Microsoft in setting realistic expectations for their new studio's financial success.
+
+- Identifying Profitable Studios: Recognition of studios with consistently high average domestic gross helps Microsoft identify key players and successful business models within the industry.
+
+- Content Strategy Refinement: Insights into the average domestic gross by studio guide Microsoft in refining their content strategy, focusing on genres and themes that have historically resonated with domestic audiences.
+
+- Market Positioning: Understanding the performance of various studios in the domestic market enables Microsoft to strategically position their new studio for maximum impact and audience reach.
+
+- Competitive Analysis: Comparative analysis of average domestic gross provides Microsoft with a competitive edge, allowing them to tailor their approach based on successful industry precedents.
+
 ![Alt Text](./data%20visualization/output4.png)
 ![Alt Text](./data%20visualization/output5.png)
 ![Alt Text](./data%20visualization/output6.png)
