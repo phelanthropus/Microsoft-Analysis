@@ -57,10 +57,70 @@ Microsoft can use this data in the following way:
 
 - Competitive Analysis: Comparative analysis of average domestic gross provides Microsoft with a competitive edge, allowing them to tailor their approach based on successful industry precedents.
 
+#### Studios with the most releases
+
 ![Alt Text](./data%20visualization/output4.png)
+
+Here are the relevant Insights from the Studio with the Most Releases:
+
+- Market Saturation: The studio with the most releases indicates a high level of market presence, highlighting the potential advantages of a diversified content portfolio for Microsoft's new studio.
+
+- Audience Engagement: A studio with numerous releases suggests a broad approach to audience engagement, providing Microsoft insights into strategies for capturing diverse viewer demographics.
+
+- Content Diversity: The studio's prolific output offers Microsoft valuable insights into the benefits of content diversity, helping them craft a strategy that caters to varied audience preferences.
+
+- Risk Mitigation: Analyzing the studio with the most releases aids Microsoft in understanding potential risks and benefits associated with a high-volume content production strategy.
+
+- Strategic Positioning: Utilizing the lessons from the studio with the most releases, Microsoft can strategically position their new studio to achieve a balance between quantity and quality in their content offerings.
+
+#### Foreign Gross vs Domestic Gross over time
+
 ![Alt Text](./data%20visualization/output5.png)
+
+This information can be utilized in the following ways:
+
+- Market Exposure: A pie chart comparing domestic and foreign gross provides a visual representation of market exposure, aiding Microsoft in understanding revenue distribution and potential growth areas.
+
+- International Appeal: Analysis of the foreign gross segment helps identify markets where content resonates strongly, guiding Microsoft in tailoring productions to diverse international audiences.
+
+- Risk Diversification: Understanding the balance between domestic and foreign gross assists Microsoft in risk diversification, ensuring resilience against fluctuations in specific markets.
+
+- Strategic Decision-Making: The pie chart supports strategic decision-making by highlighting the significance of global markets and the potential for revenue diversification beyond domestic boundaries.
+
+- Content Localization: Insights from the chart enable Microsoft to explore content localization strategies, enhancing global appeal and optimizing revenue streams in different regions.
+
+#### Average Rating By Genres
+
 ![Alt Text](./data%20visualization/output6.png)
+
+Microsoft can use this data in the following ways: 
+
+- Genre Popularity: Analyzing average ratings by genres helps Microsoft gauge the popularity and reception of different genres, guiding content creation aligned with audience preferences.
+
+- Quality Benchmark: Genres with consistently high average ratings serve as a benchmark for content quality, enabling Microsoft to set high standards for their new studio's productions.
+
+- Audience Expectations: Understanding average ratings by genres provides insights into audience expectations, allowing Microsoft to meet or exceed these expectations in their content offerings.
+
+- Targeted Content Strategy: Insights from genre-specific ratings aid in formulating a targeted content strategy, focusing on genres that have a proven track record of positive audience reception.
+
+- Competitive Edge: Utilizing data on average ratings by genres gives Microsoft a competitive edge, helping them position their studio as a provider of high-quality content across various genres.
+
+#### Scatter Plot of Average Rating vs. Total Gross
+
 ![Alt Text](./data%20visualization/output7.png)
+
+This can be used in the following ways:
+
+- Quality-Commercial Balance: A scatter plot comparing average ratings to total gross provides a visual representation of the balance between content quality and commercial success, guiding Microsoft in striking an optimal equilibrium.
+
+- Identifying Blockbusters: Clusters on the plot reveal movies with high ratings and high total gross, helping Microsoft identify potential blockbuster formulas and replicate successful strategies.
+
+- Content Investment: Insights from the scatter plot assist in strategic content investment, allowing Microsoft to allocate resources effectively by prioritizing genres or themes that align with both critical acclaim and financial success.
+
+- Audience Preferences: Patterns in the scatter plot indicate audience preferences, aiding Microsoft in tailoring their content to meet the demands of a discerning and revenue-driven audience.
+
+- Competitive Positioning: Utilizing the plot, Microsoft can strategically position their studio as one that consistently delivers high-quality content with substantial commercial appeal.
+
 ![Alt Text](./data%20visualization/output8.png)
 
 
