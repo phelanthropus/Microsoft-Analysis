@@ -9,12 +9,10 @@ Stakeholders in this project include Microsoft executives, creative teams involv
 ## Data Understanding and Analysis
 ### Source of Data
  The data set used are from two sources:
-- Box Office Moj
-Contains info on the domestic and foreign gross income for the different movies
-Also shows the Studios that produced the movie
+- Box Office Mojo
+Contains info on the domestic and foreign gross income for the different movies as well as the Studios that produced the movie
 - IMDB
-Shows the genres of the movies
-Also contains the average ratings and the number of votes
+Shows the genres of the movies, the average ratings and the number of votes that lead to that rating
 ### Description of Data
 For the Box Office Mojo dataset, we have the following key columns:
 - title: this shows the movie titles
